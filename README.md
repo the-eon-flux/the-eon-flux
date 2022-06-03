@@ -1,22 +1,14 @@
-### Hi 👋
+## Hi there, I am Tejus Shinde 👋
+  Currently, I am a PhD researcher @medunigraz, working in human microbiome research at the Moissl-Eichinger research group, Graz (AT). 
+  My research interests are in the following areas: Computational Biology, Bioinformatics, Microbiome, Evolutionary Biology, Neuroscience, Translational Research.
+  
+### Skill set
+  A. Data Analysis Skills: Omics (Dna, Rna, Metabolites & Protein), MS Data analysis (LC/MS), Statistics, Machine Learning, Deep Learning, R Shiny App development.
+  B. Programming languages: R & Python programming, Shell scripting, DBMS-MySQL, Java.
 
-<!--
-**the-eon-flux/the-eon-flux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+### Contact details
+  shindetejus@gmail.com OR tejus.shinde@medunigraz.at
+  
 <br/>  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=the-eon-flux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
