@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **the-eon-flux/the-eon-flux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<br/>  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=the-eon-flux&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/> 
