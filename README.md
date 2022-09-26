@@ -3,7 +3,7 @@
   My research interests are in the following areas: Computational Biology, Bioinformatics, Microbiome, Evolutionary Biology, Neuroscience, Translational Research.
   
 ### Skill set
-  A. Data Analysis Skills: Omics (Dna, Rna, Metabolites & Protein), MS Data analysis (LC/MS), Statistics, Machine Learning, Deep Learning, R Shiny App development.
+  A. Data Analysis Skills: Omics (DNA, RNA, Metabolites), MS Data analysis (LC/MS), Statistics, Machine Learning, Deep Learning, R Shiny App development.
   B. Programming languages: R & Python programming, Shell scripting, DBMS-MySQL, Java.
 
 ### Contact details
