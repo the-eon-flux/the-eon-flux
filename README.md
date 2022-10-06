@@ -1,6 +1,6 @@
 ## Hi there, I am Tejus Shinde 👋
   I am a PhD researcher working in human microbiome research, under the supervision of [Dr. Christine Moissl-Eichinger](https://scholar.google.de/citations?user=NdvP01gAAAAJ&hl=de/),  at the [@CME-lab-research](https://github.com/orgs/CME-lab-research/), Graz (AT). 
-  My research interests are in the following areas: Computational Biology/Bioinformatics, Microbiome, Evolutionary Biology, Neuroscience, Translational Research.
+  My research interests are in the following areas: Computational Biology/Bioinformatics, Microbiome research.
   
 ### Skill set
   A. Data Analysis Skills: Omics (DNA, RNA, Metabolites), MS Data analysis (LC/MS), Statistics, Machine Learning, Deep Learning, R Shiny App development.
